@@ -1,4 +1,4 @@
 # Website_Sekolah_Master
-URL Dashbord : http://localhost/Website_Sekolah_Master/login<br>
+URL Dashbord : localhost/cms_sekolahku/login<br>
 Username : administrator<br>
 Password : administrator
